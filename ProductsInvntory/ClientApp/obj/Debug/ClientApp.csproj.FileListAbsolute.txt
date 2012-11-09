@@ -1,0 +1,7 @@
+c:\users\amiralles\posts\ProductsInvntory\ClientApp\bin\Debug\ClientApp.exe.config
+c:\users\amiralles\posts\ProductsInvntory\ClientApp\bin\Debug\ClientApp.exe
+c:\users\amiralles\posts\ProductsInvntory\ClientApp\bin\Debug\ClientApp.pdb
+c:\users\amiralles\posts\ProductsInvntory\ClientApp\bin\Debug\System.Net.Http.dll
+c:\users\amiralles\posts\ProductsInvntory\ClientApp\bin\Debug\System.Net.Http.xml
+c:\users\amiralles\posts\ProductsInvntory\ClientApp\obj\Debug\ClientApp.exe
+c:\users\amiralles\posts\ProductsInvntory\ClientApp\obj\Debug\ClientApp.pdb
